@@ -1,0 +1,15 @@
+1 --- one
+hi --- hi
+hello --- hello my friend !!!
+2 --- two
+three --- 3
+3 --- three
+two --- 2
+one --- 1
+hey --- welcome my friend !!!
+hai --- hai my friend
+how are you --- i'm fine, what about you?
+I am fine --- i'm glad to hear
+what's the weather today --- i don't know
+
+
