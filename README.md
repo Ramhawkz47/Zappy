@@ -4,11 +4,17 @@ Zappy is fun personal assistant and easy to deploy anywhere and do anything you 
 Instructions:-
 
 1. It requires following libraries:-
+ 
  a. Wheel package installer - pip install wheel
+ 
  b. SpeechRecognition - pip install SpeechRecognition
+ 
  c. python text-to-speech (pyttsx3) - pip install pyttsx3
+ 
  d. Pyaudio - https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio - my python is v3.8 so i used v38 - pip install PyAudio-0.2.11-cp38-cp38m-win_amd64.whl
+ 
  e. Microsoft Visual C++ v14 or higher - https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16 
+ 
  f. Cython (to precompile Python Libraries)(optional, if you need to speed it up) - pip install cython
 
 2. Run micdecttest.py to test audio ports and note the ids (if you are using specific microphone). i'm using id 0 as it sets to the default microphone.
